@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true
+        , "outDir": "build/app"
+        , "module": "es6"
+        , "target": "es2015"
+        , "emitDecoratorMetadata": true
+        , "experimentalDecorators": true
+        , "sourceMap": true
+        , "suppressImplicitAnyIndexErrors": true
+        , "moduleResolution": "node"
+        
+    }
+   
+}
